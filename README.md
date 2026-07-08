@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner do Hub de Projetos_Prisma de Curadoria (caos em ordem) fundo escuro_v3.png">
+  <img src="https://raw.githubusercontent.com/Kat-Ak/galeria-visual/main/banners-hub/Banner do Hub de Projetos_Prisma de Curadoria (caos em ordem) fundo escuro_v3.png" width="100%">
 </p>
 
 ---
