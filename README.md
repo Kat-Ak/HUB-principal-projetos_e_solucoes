@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/Kat-Ak/galeria-visual/main/banners-hub/Banner do Hub de Projetos_Prisma de Curadoria (caos em ordem) fundo escuro_v3.png" width="100%">
+<img src="https://raw.githubusercontent.com/Kat-Ak/galeria-visual/main/banners-hub/banner-hub_de_projetos-prisma-curadoria-fundo_escuro_v3.png" width="100%">
   
 # HUB de soluções simplificadas com IA aplicada
 # curadoria organizada sob perspectiva e competência 'beyond-tech'
