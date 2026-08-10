@@ -1,21 +1,23 @@
 <div align="center">
 
-
-<img src="https://raw.githubusercontent.com/Kat-Ak/galeria-visual/main/banners-hub/banner-hub_de_projetos-prisma-curadoria-fundo_escuro_v3.png" width="100%">
+<img src="https://raw.githubusercontent.com/Kat-Ak/galeria-visual/main/banners-hub/banner-hub_de_projetos-prisma-curadoria-fundo_escuro_v3.png" width="100%"><div>
   
-# 🗃️ HUB principal | PROJETOS E SOLUÇÕES
-<p align="center">══════════════════════════════════════════════════════════<br>
-
-<div align="center">
+  <H1 align="center">
+🗃️ HUB principal | PROJETOS E SOLUÇÕES <div>
   
-# curadoria organizada sob perspectiva e competência 'beyond-tech'
-    
+curadoria organizada sob perspectiva e competência 'beyond-tech'
+ <H6 align="center">════════════════════════════════════════════════════<div>
+
 *Este repositório foi criado como parte do Desafio 2: Escalando Oportunidades com seu Portfólio de Projetos da DIO Campus Expert da Turma 16. Ele reúne as soluções desenvolvidas durante os desafios de projetos da DIO e Bootcamps parceiros, sob a perspectiva de uma profissional non-tech focada na aplicação prática, ampla e estratégica da Inteligência Artificial (técnicas de curadoria, engenharia de prompts e modelagem de processos).*
+
+---
+ </p><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=lightgrey&style=for-the-badge"/> </br></div></p>
 
 ---
 
 ## 📚 Visão Geral
-Meus projetos focam na tecnologia como um "exponencial e potencial facilitador" para a produtividade humana, possibilitando foco total em refinamento de decisões onde a percepção de um olhar humano cuidadoso é especialmente imprescindível para a qualidade do acabamento final.
+<p align="left">
+Meus projetos focam na tecnologia como um "exponencial e potencial facilitador" para a produtividade humana, possibilitando foco total em refinamento de decisões onde a percepção de um olhar humano cuidadoso é especialmente imprescindível para a qualidade do acabamento final.</p>
 
 ---
 
@@ -28,7 +30,7 @@ Meus projetos focam na tecnologia como um "exponencial e potencial facilitador" 
    ├── BADGE DIO | Campus Expert | Turma 16
    │      ├── Desafio 1 | Artigo - Atualização Sob Medida: IA e Carreira [Desafio_1-Artigo-IA_e_Carreira]
    │      └── Desafio 2 | HUB principal | PROJETOS E SOLUÇÕES (este repositório) [Desafio_2-Hub-Projetos_Estrategicos]
-   └── <img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO" height="27" style="vertical-align: middle;" /> <style="vertical-align: middle;"> DIO | Bootcamps
+   └── <img src="./presenca-digital/Dio-logo.png" width="35" alt="Dio Logo"> DIO | Bootcamps
           ├── <img alt=1500% src="https://github.com/user-attachments/assets/8b62540a-10c9-4fd0-af14-d4d5c843a626" />
 <p align="center">BADGE CAIXA [IA na Prática]
           │    ├── Desafio_Parte_1-App_Financas_Pessoais/
@@ -48,7 +50,7 @@ Meus projetos focam na tecnologia como um "exponencial e potencial facilitador" 
 ---
 
 ### 🧩 Conteúdo do Portfólio (LifeLong Learning)
-### Badge DIO | Campus Expert | Turma 16
+### <img src="./badges-artigos_e_projetos/Dio-badge-Campus_Expert-Turma_16.png" width="40" alt="Badge Campus Expert"> DIO | Campus Expert | Turma 16
 
 `Artigo:` **Atualização Sob Medida: IA e Carreira**
 > *Um guia estratégico focado na personalização da jornada, valorizando o histórico individual e na curadoria ativa de dados alinhado ao momento de carreira e às aspirações do profissional.*
@@ -73,7 +75,7 @@ Meus projetos focam na tecnologia como um "exponencial e potencial facilitador" 
 
 ---
 
-### Badge Bootcamp Caixa | IA na Prática (finanças x carreira)
+<img src="./badges-artigos_e_projetos/Caixa-badge_projeto.png" width="40" alt="Badge Caixa"> &nbsp; Bootcamp Caixa | IA na Prática (finanças x carreira)
 
 #### Soluções focadas em inclusão digital, acessibilidade e posicionamento estratégico.
 
