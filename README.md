@@ -3,59 +3,159 @@
 
 <img src="https://raw.githubusercontent.com/Kat-Ak/galeria-visual/main/banners-hub/banner-hub_de_projetos-prisma-curadoria-fundo_escuro_v3.png" width="100%">
   
-# HUB de soluções simplificadas com IA aplicada
-# curadoria organizada sob perspectiva e competência 'beyond-tech'
- <a href="https://www.dio.me/">
-    
-**Este repositório foi criado como parte do Desafio 2: Escalando Oportunidades com seu Portfólio de Projetos da DIO <img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> Campus Expert da Turma 16, reunindo as soluções desenvolvidas durante os desafios de projetos da DIO <img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> e Bootcamps parceiros, como uma profissional non-tech focando na aplicação prática da IA de forma ampla e estratégica, como técnicas de curadoria, desenvolvimento de prompts e organização de processos.**
+# 🗃️ HUB principal | PROJETOS E SOLUÇÕES
+<p align="center">══════════════════════════════════════════════════════════<br>
 
-##
+<div align="center">
+  
+# curadoria organizada sob perspectiva e competência 'beyond-tech'
+    
+*Este repositório foi criado como parte do Desafio 2: Escalando Oportunidades com seu Portfólio de Projetos da DIO Campus Expert da Turma 16. Ele reúne as soluções desenvolvidas durante os desafios de projetos da DIO e Bootcamps parceiros, sob a perspectiva de uma profissional non-tech focada na aplicação prática, ampla e estratégica da Inteligência Artificial (técnicas de curadoria, engenharia de prompts e modelagem de processos).*
+
+---
+
 ## 📚 Visão Geral
 Meus projetos focam na tecnologia como um "exponencial e potencial facilitador" para a produtividade humana, possibilitando foco total em refinamento de decisões onde a percepção de um olhar humano cuidadoso é especialmente imprescindível para a qualidade do acabamento final.
 
 ---
 
-### 🧩 Destaques do Portfólio
+## 🏗️ Estrutura do HUB
+<div align="left">
 
-#### 1. App de Finanças Pessoais (Vibe Coding) | Caixa <img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-📂 [Acesse o projeto aqui](https://github.com/Kat-Ak/Bootcamp_Caixa-DIO_app-de-financas-pessoais-com-vibe-coding) 
+```text
 
-**O Desafio:** Criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural, sem escrever uma única linha de código.
+🗂️ HUB principal | PROJETOS E SOLUÇÕES
+   ├── BADGE DIO | Campus Expert | Turma 16
+   │      ├── Desafio 1 | Artigo - Atualização Sob Medida: IA e Carreira [Desafio_1-Artigo-IA_e_Carreira]
+   │      └── Desafio 2 | HUB principal | PROJETOS E SOLUÇÕES (este repositório) [Desafio_2-Hub-Projetos_Estrategicos]
+   └── <img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" alt="DIO" height="27" style="vertical-align: middle;" /> <style="vertical-align: middle;"> DIO | Bootcamps
+          ├── <img alt=1500% src="https://github.com/user-attachments/assets/8b62540a-10c9-4fd0-af14-d4d5c843a626" />
+<p align="center">BADGE CAIXA [IA na Prática]
+          │    ├── Desafio_Parte_1-App_Financas_Pessoais/
+          │    ├── Desafio_Parte_2-Mapeamento_Carreira_XTech/
+          │    └── Desafio_Parte_Final-Mapa_Habilidades/
+          ├── BADGE HEINEKEN [IA Aplicada a Vendas]
+          │     ├── Desafios_Criativos-Prompts_Panificacao/
+          |     |    ├── Desafio 1 | Simplificando Tarefas e Ganhando Foco com IA
+          |     |    ├── Desafio 3 | Acelerando Sua Produtividade Pessoal com IA
+          |     |    └── Desafio 4 | Quem Não Vende, Ajuda a Vender! O Poder da Argumentação
+          │     ├── Desafio_Projeto_2-IA_Aprendizagem_NotebookLM/
+          |     └── Desafio_Final-Copiloto_Vendas_FYS/
+          └── BADGE MICHAEL PAGE [Criando Seu Primeiro Agente de IA]
+                   └── Desafio_Projeto-Agente_IA_Suporte_Financeiro/
+            
+```
+---
 
-**A Solução:** Desenvolvimento de um MVP focado em experiência intuitiva, utilizando wireframes textuais para guiar o usuário em uma jornada educativa e simples através de linguagem natural.
+### 🧩 Conteúdo do Portfólio (LifeLong Learning)
+### Badge DIO | Campus Expert | Turma 16
 
-**Diferencial:** Design Universal e interface acessível (texto, comandos de voz ou botões), focado em pessoas com necessidades de acessibilidade visual, cognitiva ou motora, iniciantes em controle financeiro ou baixa alfabetização digital.
+`Artigo:` **Atualização Sob Medida: IA e Carreira**
+> *Um guia estratégico focado na personalização da jornada, valorizando o histórico individual e na curadoria ativa de dados alinhado ao momento de carreira e às aspirações do profissional.*
 
-#### 2. Mapeamento de Carreira X-Tech | Caixa <img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-📂 [Acesse o projeto aqui](https://github.com/Kat-Ak/Bootcamp_Caixa-DIO_mapeamento-de-carreira)
+<details>
+<summary><b>(Clique para expandir)</b></summary>
 
-**O Desafio:** Desenvolver duas IAs complementares para orientar e estruturar o desenvolvimento de carreira do candidato na área de tecnologia.
 
-**A Solução:** Combinar técnicas avançadas de *Prompt Engineering* (Chain-of-Thought), estruturar pipeline de agentes (fluxo sequencial de informações) e criar protocolo de *handoff* blindado através de implementação de sistema de métricas, com abordagem ética e humana, gera sugestões mais assertivas e realistas.
+</details>
+    
+`Este Repositório` **Hub de Projetos Estratégicos**  
+> *Portfólio de soluções simplificadas com IA aplicadas a desafios reais de mercado sob uma perspectiva non-tech.*  
+  
+<details>
+<summary><b>(Clique para expandir)</b></summary>
 
-**Diferencial:** Abordagem humanizada e sem "tecniquês". A solução utiliza IA para processar traços de neurodiversidade e perfis comportamentais, traduzindo-os em Atributos Estratégicos de mercado (como transformar Hiperfoco em Deep Work). Isso permite mapear o melhor match técnico para profissionais non-tech, ressaltando seu real diferencial de mercado.
 
-#### 3. Simplificação de Tarefas | Heineken <img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-📂 [Acesse o projeto aqui](https://github.com/Kat-Ak/Bootcamp_Heineken-DIO_prompts/blob/main/Simplificando_Tarefas_e_Ganhando_Foco_com_IA_no_Dia-a-Dia.md) 
+</details>
+    
 
-**O Desafio:** Seguir 3 etapas estruturadas de forma simples (intenção, contexto e unificação) para a criação de prompts claros, úteis e estrategicamente direcionados via IA.
+👉 *Os arquivos de entrega e a documentação individual deste bloco podem ser acessados diretamente no [Repositório de Arquivos da DIO | Campus Expert | Turma 16](SEU_LINK_AQUI).*
 
-**A Solução:** Desenvolvimento de prompts para roteiros de abordagem rápida (cross-selling de 30 segundos) com contexto refinado, restrições precisas, visando gerar valor estratégico imediato in loco.
+---
 
-**Diferencial:** Atuação direta como ferramenta de *Sales Enablement*, traduzindo necessidades estratégicas de marketing em soluções práticas para a execução do departamento comercial de vendas.
+### Badge Bootcamp Caixa | IA na Prática (finanças x carreira)
 
-#### 4. Artigo: Atualização Sob Medida: IA e Carreira | Dio (Desafio 1 da Turma 16) <img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-📂 [Acesse o projeto aqui](https://web.dio.me/articles/atualizacao-sob-medida-744e31560107) 
+#### Soluções focadas em inclusão digital, acessibilidade e posicionamento estratégico.
 
-**O Desafio:** Reforçando sua Autoridade por meio de Artigos.
+`Desafio [Parte 1]:` **App de Finanças Pessoais por chat (Vibe Coding com IA)**  
+> *Criação de um MVP educativo focado em pessoas com necessidades de acessibilidade visual, cognitiva ou motora, iniciantes em controle financeiro ou baixa alfabetização digital utilizando interações em linguagem natural.* 
 
-**A Solução:** Artigo autoral, tema de interesse atual, público e pessoal, IA e Engenharia de Prompts para atualização de carreira. Um guia sobre o uso estratégico de tecnologias para potencializar decisões individuais, combatendo a “fadiga de informações”, através de curadoria ativa de conhecimento e filtros estratégicos de dados, para que o aprendizado seja orgânico e alinhado ao momento de carreira e às aspirações de cada indivíduo.
+<details>
+<summary><b>(Clique para expandir)</b></summary>
+    *   **Problema:** O abandono de controles financeiros complexos por iniciantes ou pessoas com baixa alfabetização digital.
+    *   **Solução:** MVP educativo guiado por voz e linguagem natural, eliminando planilhas tradicionais através de uma interface baseada em Design Universal.
+    *   **Impacto:** Acessibilidade total para usuários com necessidades visuais, cognitivas ou motoras.
+</details>
 
-**Diferencial:** Ênfase no protagonismo humano e na técnica de "calibragem por camadas" para refinar resultados obtidos via IA, onde atua como ferramenta de apoio, para que o foco seja na personalização da jornada, rejeitando padronizações e valorizando o histórico individual de cada profissional.
+`Desafio [Parte 2]:` **Mapeamento de Carreira (REVELADOR X-TECH)**  
+> *Desenvolvimento de agentes inteligentes para traduzir perfis comportamentais e neurodiversidade em ativos de mercado, mapeando o melhor match técnico para profissionais non-tech.*
+
+<details>
+<summary><b>(Clique para expandir)</b></summary>
+    *   **Problema:** Dificuldade de profissionais non-tech mapearem seu real diferencial de mercado e planos de estudo rígidos que geram burnout.
+    *   **Solução:** Criação de agentes inteligentes interconectados para diagnosticar perfis e gerar roteiros de carreira altamente adaptativos.
+    *   **Impacto:** Inclusão de perfis comportamentais e traços de neurodiversidade, traduzindo competências nativas em ativos de mercado (ex: Hiperfoco ➔ Deep Work).
+</details>
+
+`Desafio [Parte Final]:` **Mapa de Habilidades**  
+> *Estruturação lógica de competências alinhadas ao propósito de vida, construindo  trajetória personalizada com autonomia e impacto real. 
+    
+<details>
+<summary><b>(Clique para expandir)</b></summary>
+    *   **Problema:** Dificuldade em estruturar e monetizar competências de forma autônoma em cenários de sobrecarga de informação.
+    *   **Solução:** Estruturação lógica e inventário metodológico de competências alinhadas ao propósito de vida.
+    *   **Impacto:** Viabilização de novos caminhos de monetização no nicho de *Life Management* e curadoria de decisões para idosos, famílias e expatriados.
+</details>
+
+👉 *Os arquivos de entrega e a documentação individual deste bloco podem ser acessados diretamente no [Repositório de Arquivos do Bootcamp Caixa](SEU_LINK_AQUI).*
+
+---
+
+### Badge Heineken | IA Aplicada a Vendas (linha de bebidas não alcoólicas em padarias)
+
+`Portfólio` **Desafios Criativos e Soluções Estratégicas (Canal Panificação)**  
+> *Aplicação prática de conjunto de prompts de Sales Enablement estruturados através de roteiros de abordagem rápida para otimização de rotinas diárias, produtividade in loco no relacionamento consultivo com o cliente.*
+
+<details>
+<summary><b>(Clique para expandir)</b></summary>
+
+</details>
+
+`Desafio de Projeto 2:` **Treinando uma IA de Aprendizagem em finanças (NotebookLM)**  
+> *Uso de inteligência de dados (argumentos matemáticos de lucro) aplicada com abordagens de venda sugestiva de alta conversão.*
+   
+<details>
+<summary><b>(Clique para expandir)</b></summary>
+
+</details>
+
+`Desafio Final:` **Copiloto de Vendas com IA (Otimização de Portfólio para Padarias)**  
+> *União entre a inteligência de dados de mercado e Engenharia de Prompts com a execução ágil humana, através da combinação de finanças corporativas aplicadas ao varejo alimentar B2B, resultando em uma consultoria inteligente de negócios de risco zero.*  
+
+<details>
+<summary><b>(Clique para expandir)</b></summary>
+
+</details>
+
+👉 *Os arquivos de entrega e a documentação individual deste bloco podem ser acessados diretamente no [Repositório de Arquivos do Bootcamp Heineken](SEU_LINK_AQUI).*
+
+---
+
+### Badge Michael Page | Criando seu Primeiro Agente de IA (finanças)
+
+`Desafio de Projeto:` **Treinando uma IA de Aprendizagem em finanças (NotebookLM)**  
+> *Criação de um assistente multimodal que simplificará conceitos complexos do mercado financeiro, facilitando a vida de MEIs e autônomos que trabalham sozinhos, através do auxílio na organização do fluxo de caixa, estruturação de capital de giro optando por investimentos otimizados e de renda recorrente.*  
+
+<details>
+<summary><b>(Clique para expandir)</b></summary>
+
+</details>
+
+👉 *Os arquivos de entrega e a documentação individual deste bloco podem ser acessados diretamente no [Repositório de Arquivos do Bootcamp Michael Page](SEU_LINK_AQUI).*
 
 ---
 
 ### 📈 Metodologia de Trabalho
-Minha abordagem segue o processo de **Calibragem Interativa por Camadas**, garantindo que a tecnologia atue como um "holofote" sobre o que realmente importa para os resultados do negócio.
+Minha abordagem segue o processo de **Calibragem Interativa por Camadas**, garantindo que a tecnologia atue como um "holofote" sobre o que realmente importa para os resultados do negócio, unindo a precisão analítica da IA com a sensibilidade do acabamento humano
 
 ```
