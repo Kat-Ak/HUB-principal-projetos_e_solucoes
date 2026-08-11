@@ -80,11 +80,11 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 #### Soluções focadas em inclusão digital, acessibilidade e posicionamento estratégico. <br>
 
 `Desafio [Parte 1]:` **App de Finanças Pessoais por chat (Vibe Coding com IA)**  <br>
-> *Criação de um MVP educativo focado em pessoas com necessidades de acessibilidade visual, cognitiva ou motora, iniciantes em controle financeiro ou baixa alfabetização digital utilizando interações em linguagem natural.* <br>
+> *Criação de um MVP de gerenciamento financeiro educativo focado em pessoas com necessidades de acessibilidade visual, cognitiva ou motora, iniciantes em controle financeiro ou baixa alfabetização digital utilizando interações em linguagem natural.* <br>
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
-    *   **Problema:** O abandono de controles financeiros complexos por iniciantes ou pessoas com baixa alfabetização digital.<br>
+    *   **Desafio:** O abandono de controles financeiros complexos por iniciantes ou pessoas com baixa alfabetização digital.<br>
     *   **Solução:** MVP educativo guiado por voz e linguagem natural, eliminando planilhas tradicionais através de uma interface baseada em Design Universal.<br>
     *   **Impacto:** Acessibilidade total para usuários com necessidades visuais, cognitivas ou motoras.<br>
 </details>
@@ -94,7 +94,7 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
-    *   **Problema:** Dificuldade de profissionais non-tech mapearem seu real diferencial de mercado e planos de estudo rígidos que geram burnout.<br>
+    *   **Desafio:** Dificuldade de profissionais non-tech mapearem seu real diferencial de mercado e planos de estudo rígidos que geram burnout.<br>
     *   **Solução:** Criação de agentes inteligentes interconectados para diagnosticar perfis e gerar roteiros de carreira altamente adaptativos.<br>
     *   **Impacto:** Inclusão de perfis comportamentais e traços de neurodiversidade, traduzindo competências nativas em ativos de mercado (ex: Hiperfoco ➔ Deep Work).<br>
 </details>
@@ -104,7 +104,7 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
     
 <details>
 <summary><b>(Clique para expandir)</b></summary><br>
-    *   **Problema:** Dificuldade em estruturar e monetizar competências de forma autônoma em cenários de sobrecarga de informação.<br>
+    *   **Desafio:** Dificuldade em estruturar e monetizar competências de forma autônoma em cenários de sobrecarga de informação.<br>
     *   **Solução:** Estruturação lógica e inventário metodológico de competências alinhadas ao propósito de vida.<br>
     *   **Impacto:** Viabilização de novos caminhos de monetização no nicho de *Life Management* e curadoria de decisões para idosos, famílias e expatriados.<br>
 </details>
