@@ -57,8 +57,11 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
+**Conexto:** Reforçando sua Autoridade por meio de Artigos.
 
+**Solução:** Artigo autoral, tema de interesse atual, público e pessoal, IA e Engenharia de Prompts para atualização de carreira. Um guia sobre o uso estratégico de tecnologias para potencializar decisões individuais, combatendo a “fadiga de informações”, através de curadoria ativa de conhecimento e filtros estratégicos de dados, para que o aprendizado seja orgânico e alinhado ao momento de carreira e às aspirações de cada indivíduo.
 
+**Diferencial:** Ênfase no protagonismo humano e na técnica de "calibragem por camadas" para refinar resultados obtidos via IA, onde atua como ferramenta de apoio, para que o foco seja na personalização da jornada, rejeitando padronizações e valorizando o histórico individual de cada profissional.
 </details>
     
 `Este Repositório` **Hub de Projetos Estratégicos** <br> 
@@ -84,29 +87,29 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
-    *   **Desafio:** O abandono de controles financeiros complexos por iniciantes ou pessoas com baixa alfabetização digital.<br>
+    *   **Contexto:** O abandono de controles financeiros complexos por iniciantes ou pessoas com baixa alfabetização digital.<br>
     *   **Solução:** MVP educativo guiado por voz e linguagem natural, eliminando planilhas tradicionais através de uma interface baseada em Design Universal.<br>
-    *   **Impacto:** Acessibilidade total para usuários com necessidades visuais, cognitivas ou motoras.<br>
+    *   **Diferencial:** Acessibilidade total para usuários com necessidades visuais, cognitivas ou motoras.<br>
 </details>
 
 `Desafio [Parte 2]:` **Mapeamento de Carreira (REVELADOR X-TECH)**  <br>
-> *Desenvolvimento de agentes inteligentes para traduzir perfis comportamentais e neurodiversidade em ativos de mercado, mapeando o melhor match técnico para profissionais non-tech.*<br>
+> *Desenvolvimento de agentes inteligentes para traduzir perfis comportamentais e neurodiversidade em competências nativas para o mercado de forma eficaz, mapeando o melhor match técnico para profissionais non-tech.*<br>
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
-    *   **Desafio:** Dificuldade de profissionais non-tech mapearem seu real diferencial de mercado e planos de estudo rígidos que geram burnout.<br>
+    *   **Contexto:** Dificuldade de profissionais non-tech mapearem seu real diferencial de mercado e planos de estudo rígidos que geram burnout.<br>
     *   **Solução:** Criação de agentes inteligentes interconectados para diagnosticar perfis e gerar roteiros de carreira altamente adaptativos.<br>
-    *   **Impacto:** Inclusão de perfis comportamentais e traços de neurodiversidade, traduzindo competências nativas em ativos de mercado (ex: Hiperfoco ➔ Deep Work).<br>
+    *   **Diferencial:** Inclusão de perfis comportamentais e traços de neurodiversidade, convertendo em competências nativas, para que o mercado consiga perceber de forma mais evidente o potencial desse profissional (ex: Hiperfoco ➔ Deep Work).<br>
 </details>
 
 `Desafio [Parte Final]:` **Mapa de Habilidades**  <br>
-> *Estruturação lógica de competências alinhadas ao propósito de vida, construindo  trajetória personalizada com autonomia e impacto real. <br>
+> *Estruturação lógica de competências em sinergia com o propósito de vida, construindo  trajetória personalizada com autonomia e impacto real. <br>
     
 <details>
 <summary><b>(Clique para expandir)</b></summary><br>
-    *   **Desafio:** Dificuldade em estruturar e monetizar competências de forma autônoma em cenários de sobrecarga de informação.<br>
-    *   **Solução:** Estruturação lógica e inventário metodológico de competências alinhadas ao propósito de vida.<br>
-    *   **Impacto:** Viabilização de novos caminhos de monetização no nicho de *Life Management* e curadoria de decisões para idosos, famílias e expatriados.<br>
+    *   **Contexto:** Dificuldade em estruturar e monetizar competências de forma autônoma em cenários de sobrecarga de informação.<br>
+    *   **Solução:** Organização conceitual e inventário metodológico de competências alinhadas à realização pessoal.<br>
+    *   **Diferencial:** Viabilização de novos caminhos de monetização no nicho de *Life Management* e curadoria de decisões para idosos, famílias e expatriados.<br>
 </details>
 
 👉 *Os arquivos de entrega e a documentação individual deste bloco podem ser acessados diretamente no [Repositório de Arquivos do Bootcamp Caixa](SEU_LINK_AQUI).*
