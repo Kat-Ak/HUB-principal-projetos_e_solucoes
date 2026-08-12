@@ -24,27 +24,33 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 <div align="left">
 
 ```text
+🗃️ HUB [principal]| PROJETOS E SOLUÇÕES (este repositório)
+   |
+   ├── 🛡️ DIO | Campus Expert | Turma 16 👤
+   |
+   └── 🎓 DIO | Bootcamps
+          ├── 🏦 Caixa [IA na Prática] 💵
+          ├── 🥤 Heineken [IA Aplicada a Vendas]👤
+          └── 💲 Michael Page [Agente de IA] 💵
 
-🗂️ HUB principal | PROJETOS E SOLUÇÕES
-   ├── BADGE DIO | Campus Expert | Turma 16
-   │      ├── Desafio 1 | Artigo - Atualização Sob Medida: IA e Carreira [Desafio_1-Artigo-IA_e_Carreira]
-   │      └── Desafio 2 | HUB principal | PROJETOS E SOLUÇÕES (este repositório) [Desafio_2-Hub-Projetos_Estrategicos]
-   └── <img src="./presenca-digital/Dio-logo.png" width="35" alt="Dio Logo"> DIO | Bootcamps
-          ├── <img alt=1500% src="https://github.com/user-attachments/assets/8b62540a-10c9-4fd0-af14-d4d5c843a626" />
-<p align="center">BADGE CAIXA [IA na Prática]
-          │    ├── Desafio_Parte_1-App_Financas_Pessoais/
-          │    ├── Desafio_Parte_2-Mapeamento_Carreira_XTech/
-          │    └── Desafio_Parte_Final-Mapa_Habilidades/
-          ├── BADGE HEINEKEN [IA Aplicada a Vendas]
-          │     ├── Desafios_Criativos-Prompts_Panificacao/
-          |     |    ├── Desafio 1 | Simplificando Tarefas e Ganhando Foco com IA
-          |     |    ├── Desafio 3 | Acelerando Sua Produtividade Pessoal com IA
-          |     |    └── Desafio 4 | Quem Não Vende, Ajuda a Vender! O Poder da Argumentação
-          │     ├── Desafio_Projeto_2-IA_Aprendizagem_NotebookLM/
-          |     └── Desafio_Final-Copiloto_Vendas_FYS/
-          └── BADGE MICHAEL PAGE [Criando Seu Primeiro Agente de IA]
-                   └── Desafio_Projeto-Agente_IA_Suporte_Financeiro/
-            
+🗃️ HUB [principal] | PROJETOS E SOLUÇÕES (este repositório)
+   |
+   ├── 🛡️ DIO [Campus Expert | Turma 16]
+   │      ├── Desafio [1] | Artigo [Atualização Sob Medida: IA e Carreira] 📑
+   │      └── Desafio [2] | Portfólio [HUB [principal] | Projetos e Soluções] 🗃️ (este repositório) 
+   |
+   └── 🎓 DIO | Bootcamps
+          ├── 🏦 Caixa | IA na Prática (finanças x carreira)
+          │      ├── Desafio [Parte 1] | App [Finanças Pessoais por chat (Vibe Coding com IA)] 💵
+          │      ├── Desafio [Parte 2] | Mapeamento de Carreira [Revelador X-Tech]👤
+          │      └── Desafio [Parte Final] | Mapa de Habilidades 🗺️
+          ├── 🥤 Heineken | IA Aplicada a Vendas (linha de bebidas não alcoólicas em padarias)
+          |      ├── Desafios [Criativos 1, 3 e 4] | Portfólio [Prompts Criativos e Soluções Estratégicas]💡
+          |      ├── Desafio [Projeto 2] | Treinando uma IA de Aprendizagem em finanças [NotebookLM]🎓💵
+          |      └── Desafio [Projeto 5 | Final] | Copiloto de Vendas com IA [Otimização de Portfólio para Padarias]🤖
+          └── 💲 Michael Page | Criando seu Primeiro Agente de IA (finanças)
+                 └── Desafio [Projeto Final] | Treinando uma IA de Aprendizagem em finanças [NotebookLM]🎓💵
+          
 ```
 ---
 
@@ -57,14 +63,12 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
-**Conexto:** Reforçando sua Autoridade por meio de Artigos.
-
-**Solução:** Artigo autoral, tema de interesse atual, público e pessoal, IA e Engenharia de Prompts para atualização de carreira. Um guia sobre o uso estratégico de tecnologias para potencializar decisões individuais, combatendo a “fadiga de informações”, através de curadoria ativa de conhecimento e filtros estratégicos de dados, para que o aprendizado seja orgânico e alinhado ao momento de carreira e às aspirações de cada indivíduo.
-
+🧩 **Conexto:** Reforçando sua Autoridade por meio de Artigos.
+💡 **Solução:** Artigo autoral, tema de interesse atual, público e pessoal, IA e Engenharia de Prompts para atualização de carreira. Um guia sobre o uso estratégico de tecnologias para potencializar decisões individuais, combatendo a “fadiga de informações”, através de curadoria ativa de conhecimento e filtros estratégicos de dados, para que o aprendizado seja orgânico e alinhado ao momento de carreira e às aspirações de cada indivíduo.
 **Diferencial:** Ênfase no protagonismo humano e na técnica de "calibragem por camadas" para refinar resultados obtidos via IA, onde atua como ferramenta de apoio, para que o foco seja na personalização da jornada, rejeitando padronizações e valorizando o histórico individual de cada profissional.
 </details>
     
-`Este Repositório` **Hub de Projetos Estratégicos** <br> 
+`Portfolio:` **Hub [principal] | Projetos e Soluções** `este repositório`<br> 
 > *Portfólio de soluções simplificadas com IA aplicadas a desafios reais de mercado sob uma perspectiva non-tech.*  <br>
   
 <details>
@@ -78,7 +82,7 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 
 ---
 
-<img src="./badges-artigos_e_projetos/Caixa-badge_projeto.png" width="40" alt="Badge Caixa"> &nbsp; Bootcamp Caixa | IA na Prática (finanças x carreira) <br>
+### <img src="./badges-artigos_e_projetos/Caixa-badge_projeto.png" width="40" alt="Badge Caixa"> &nbsp; Bootcamp Caixa | IA na Prática (finanças x carreira) <br>
 
 #### Soluções focadas em inclusão digital, acessibilidade e posicionamento estratégico. <br>
 
@@ -87,19 +91,19 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
-    *   **Contexto:** O abandono de controles financeiros complexos por iniciantes ou pessoas com baixa alfabetização digital.<br>
-    *   **Solução:** MVP educativo guiado por voz e linguagem natural, eliminando planilhas tradicionais através de uma interface baseada em Design Universal.<br>
-    *   **Diferencial:** Acessibilidade total para usuários com necessidades visuais, cognitivas ou motoras.<br>
+🧩 **Contexto:** O abandono de controles financeiros complexos por iniciantes ou pessoas com baixa alfabetização digital.<br>
+💡 **Solução:** MVP educativo guiado por voz e linguagem natural, eliminando planilhas tradicionais através de uma interface baseada em Design Universal.<br>
+**Diferencial:** Acessibilidade total para usuários com necessidades visuais, cognitivas ou motoras.<br>
 </details>
 
 `Desafio [Parte 2]:` **Mapeamento de Carreira (REVELADOR X-TECH)**  <br>
-> *Desenvolvimento de agentes inteligentes para traduzir perfis comportamentais e neurodiversidade em competências nativas para o mercado de forma eficaz, mapeando o melhor match técnico para profissionais non-tech.*<br>
+> *Desenvolvimento de agentes inteligentes para traduzir perfis comportamentais e neurodiversidade em atributos estratégicos de mercado, mapeando o melhor match técnico para profissionais non-tech.*<br>
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
-    *   **Contexto:** Dificuldade de profissionais non-tech mapearem seu real diferencial de mercado e planos de estudo rígidos que geram burnout.<br>
-    *   **Solução:** Criação de agentes inteligentes interconectados para diagnosticar perfis e gerar roteiros de carreira altamente adaptativos.<br>
-    *   **Diferencial:** Inclusão de perfis comportamentais e traços de neurodiversidade, convertendo em competências nativas, para que o mercado consiga perceber de forma mais evidente o potencial desse profissional (ex: Hiperfoco ➔ Deep Work).<br>
+🧩 **Contexto:** Dificuldade de profissionais non-tech mapearem seu real diferencial de mercado e planos de estudo rígidos que geram burnout.<br>
+💡 **Solução:** Criação de agentes inteligentes interconectados para diagnosticar perfis e gerar roteiros de carreira altamente adaptativos.<br>
+**Diferencial:** Inclusão de perfis comportamentais e traços de neurodiversidade, convertendo em competências nativas, para que o mercado consiga perceber de forma mais evidente o potencial desse profissional (ex: Hiperfoco ➔ Deep Work).<br>
 </details>
 
 `Desafio [Parte Final]:` **Mapa de Habilidades**  <br>
@@ -107,9 +111,9 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
     
 <details>
 <summary><b>(Clique para expandir)</b></summary><br>
-    *   **Contexto:** Dificuldade em estruturar e monetizar competências de forma autônoma em cenários de sobrecarga de informação.<br>
-    *   **Solução:** Organização conceitual e inventário metodológico de competências alinhadas à realização pessoal.<br>
-    *   **Diferencial:** Viabilização de novos caminhos de monetização no nicho de *Life Management* e curadoria de decisões para idosos, famílias e expatriados.<br>
+🧩 **Contexto:** Dificuldade em estruturar e monetizar competências de forma autônoma em cenários de sobrecarga de informação.<br>
+💡 **Solução:** Organização conceitual e inventário metodológico de competências alinhadas à realização pessoal.<br>
+**Diferencial:** Viabilização de novos caminhos de monetização no nicho de *Life Management* e curadoria de decisões para idosos, famílias e expatriados.<br>
 </details>
 
 👉 *Os arquivos de entrega e a documentação individual deste bloco podem ser acessados diretamente no [Repositório de Arquivos do Bootcamp Caixa](SEU_LINK_AQUI).*
@@ -118,15 +122,19 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 
 ### Badge Heineken | IA Aplicada a Vendas (linha de bebidas não alcoólicas em padarias)<br>
 
-`Portfólio` **Desafios Criativos e Soluções Estratégicas (Canal Panificação)**  <br>
-> *Aplicação prática de conjunto de prompts de Sales Enablement estruturados através de roteiros de abordagem rápida para otimização de rotinas diárias, produtividade in loco no relacionamento consultivo com o cliente.*<br>
+#### Otimização de rotinas de campo, produtividade comercial e engajamento na cadeia B2B direcionada ao Canal Panificação.<br>
+
+`Desafios Criativos [1, 3 e 4] | Portfolio:` **Desafios Criativos e Soluções Estratégicas (Canal Panificação)**  <br>
+> *Aplicação prática de conjunto de prompts estruturados através de roteiros de abordagem rápida para otimização de rotinas diárias e produtividade in loco no relacionamento consultivo com o cliente.*<br>
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
-
+🧩 **Contexto:** Demonstrar a aplicação prática de Engenharia de Prompts para produtividade e argumentação na cadeia logística B2B.
+💡 **Solução:** Desenvolvimento de prompts para roteiros de abordagem rápida com contexto refinado, restrições precisas, visando gerar valor estratégico imediato.
+**Diferencial:** Proposta de unir a cadeia logística em um ecossistema para mitigar burocracias através da inteligência de dados com soluções práticas para auxiliar a área comercial.
 </details>
 
-`Desafio de Projeto 2:` **Treinando uma IA de Aprendizagem em finanças (NotebookLM)**  <br>
+`Desafio [Projeto 2]:` **Treinando uma IA de Aprendizagem em finanças (NotebookLM)**  <br>
 > *Uso de inteligência de dados (argumentos matemáticos de lucro) aplicada com abordagens de venda sugestiva de alta conversão.*<br>
    
 <details>
@@ -134,12 +142,17 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 
 </details>
 
-`Desafio Final:` **Copiloto de Vendas com IA (Otimização de Portfólio para Padarias)**  <br>
-> *União entre a inteligência de dados de mercado e Engenharia de Prompts com a execução ágil humana, através da combinação de finanças corporativas aplicadas ao varejo alimentar B2B, resultando em uma consultoria inteligente de negócios de risco zero.*  <br>
+`Desafio [Projeto 5 | Final]:` **Copiloto de Vendas com IA (Otimização de Portfólio para Padarias)**  <br>
+> *Desenvolvimento de um Assistente de Inteligência Comercial voltado à expansão de mercado (Market Share) da marca FYS no canal de Padarias Premium. Unindo a inteligência de dados de mercado e a Engenharia de Prompts com a execução ágil humana, através da combinação de finanças corporativas aplicadas ao varejo alimentar B2B, resultando em uma consultoria inteligente de negócios.*<br>
 
 <details>
 <summary><b>(Clique para expandir)</b></summary>
-
+🧩 **Contexto:** Sem verba de marketing. Empresa reconhecida pela linha de bebidas alcóolicas tem dificuldade de aumentar a divulgação da linha de bebidas não alcoólicas em padarias, por falta de motivação dos vendedores já habituados a trabalharem com a linha de alcóolicos.
+💡 **Solução:** Um copiloto de prontidão comercial baseado em IA de bolso. Ele converte dados brutos do varejo em argumentos matemáticos de contorno rápido, aplicando o framework *Next Best Action* (NBA) para quebrar objeções em tempo real.
+📉 **Diferenciais:**
+    *   **Matriz de Parceria Estratégica:** Transforma objeções físicas em soluções de *Custo de Oportunidade*, *Cross-selling* (venda cruzada no balcão) e *Margem de Contribuição*.
+    *   **Logística de Custo Marginal Zero:** Lógica que aproveita a rota de distribuição de alcoólicos já paga para acoplar entregas fracionadas e menores, sem sufocar o fluxo de caixa do cliente.
+    *   **Inteligência Baseada em Fontes:** Base de conhecimento auditada e estruturada através de manuais do SEBRAE, diretrizes da ABIP e artigos da SciELO via Google NotebookLM.
 </details>
 
 👉 *Os arquivos de entrega e a documentação individual deste bloco podem ser acessados diretamente no [Repositório de Arquivos do Bootcamp Heineken](SEU_LINK_AQUI).*
@@ -148,7 +161,7 @@ curadoria organizada sob perspectiva e competência 'beyond-tech'
 
 ### Badge Michael Page | Criando seu Primeiro Agente de IA (finanças)<br>
 
-`Desafio de Projeto:` **Treinando uma IA de Aprendizagem em finanças (NotebookLM)**  <br>
+`Desafio [Projeto | Final]:` **Treinando uma IA de Aprendizagem em finanças (NotebookLM)**  <br>
 > *Criação de um assistente multimodal que simplificará conceitos complexos do mercado financeiro, facilitando a vida de MEIs e autônomos que trabalham sozinhos, através do auxílio na organização do fluxo de caixa, estruturação de capital de giro optando por investimentos otimizados e de renda recorrente.*  <br>
 
 <details>
