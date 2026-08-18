@@ -21,7 +21,7 @@
   
 ## 📚 Visão Geral <br>
   
-Meus projetos focam na tecnologia como um "exponencial e potencial facilitador" para a produtividade humana, possibilitando foco total em refinamento de decisões onde a percepção de um olhar humano cuidadoso é especialmente imprescindível para a qualidade do acabamento final.
+Os projetos focam na tecnologia como um "exponencial e potencial facilitador" para a produtividade humana, possibilitando foco total em refinamento de decisões onde a percepção de um olhar humano cuidadoso é especialmente imprescindível para a qualidade do acabamento final.
 
 ---
 
